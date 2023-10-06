@@ -1,0 +1,20 @@
+.rep-me {
+  background-color: rgb(235, 100, 100);
+  font-family: "Times New Roman", "Verdana", "DejaVu Sans", "sans-serif";
+}
+
+.rep-me.today {
+  font-size: 24px;
+}
+
+#blue-one {
+  color: blue;
+  font-size: 36px;
+  font-weight: bold;
+}
+
+#green-one {
+  background-color: rgb(7, 216, 0);
+  font-weight: bold;
+  font-size: 24px;
+}
